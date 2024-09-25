@@ -121,7 +121,7 @@
     },
     {
         "contract": "Election",
-        "function": "EPOCHMANAGER_ADDRESS",
+        "function": "0xF710DD3C761005f2725B991A907346f03253588D",
         "args": [
           "0xc9cce1e51F1393CE39EB722E3e59eDE6faBf89fD"
         ],
@@ -129,15 +129,7 @@
       },
     {
         "contract": "LockedGold",
-        "function": "EPOCHMANAGER_ADDRESS",
-        "args": [
-          "0xc9cce1e51F1393CE39EB722E3e59eDE6faBf89fD"
-        ],
-        "value": "0"
-    },
-    {
-        "contract": "LockedGold",
-        "function": "EPOCHMANAGER_ADDRESS",
+        "function": "0xF710DD3C761005f2725B991A907346f03253588D",
         "args": [
           "0xc9cce1e51F1393CE39EB722E3e59eDE6faBf89fD"
         ],
