@@ -121,17 +121,17 @@
     },
     {
         "contract": "Election",
-        "function": "0xF710DD3C761005f2725B991A907346f03253588D",
+        "function": "setBlockedByContract",
         "args": [
-          "0xc9cce1e51F1393CE39EB722E3e59eDE6faBf89fD"
+          "0xF710DD3C761005f2725B991A907346f03253588D"
         ],
         "value": "0"
       },
     {
         "contract": "LockedGold",
-        "function": "0xF710DD3C761005f2725B991A907346f03253588D",
+        "function": "setBlockedByContract",
         "args": [
-          "0xc9cce1e51F1393CE39EB722E3e59eDE6faBf89fD"
+          "0xF710DD3C761005f2725B991A907346f03253588D"
         ],
         "value": "0"
     },
